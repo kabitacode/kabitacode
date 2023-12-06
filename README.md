@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muhamad.zulfiqor](https://medium.com/@muhamad.zulfiqor)
 
-- 💬 Ask me about **React & React Native**
+- 💬 Ask me about **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
