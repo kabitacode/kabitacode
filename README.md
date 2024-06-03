@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Zulfiqor</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Mobile Technologies**
+- 🌱 I’m currently learning **Mobile Technology**
 
 - 📝 I regularly write articles on [https://medium.com/@muhamad.zulfiqor](https://medium.com/@muhamad.zulfiqor)
 
