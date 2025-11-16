@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muhamad.zulfiqor](https://medium.com/@muhamad.zulfiqor)
 
-- 💬 Ask me about **React / Native**
-
 - 📫 How to reach me **muhamadzulfiqor77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
