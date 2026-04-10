@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfiqor</h1>
-<h3 align="center">A passionate frontend mobile developer from Indonesia</h3>
+<h3 align="center">A passionate software developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **SwiftUI**
 
